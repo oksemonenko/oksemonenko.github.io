@@ -1,193 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50ca7262-4c27-4889-a610-1bc36692412c" name="Default" comment=":gem:  Проект Пинк">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/opensans.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/opensans.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/opensansbold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/opensansbold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/opensanslight.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/opensanslight.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg-back-desktop.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg-back-desktop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg-back-desktop@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg-back-mobile.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg-back-mobile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg-back-mobile@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg-back-mobile@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg-back-tablet.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg-back-tablet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg-back-tablet@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg-back-tablet@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg-map-desktop@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg-map-mobile.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg-map-mobile@1x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg-map-tablet@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iphone-hand-desktop@1x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iphone-hand-desktop@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iphone-hand-mobile@1x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iphone-hand-mobile@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iphone-hand-tablet@1x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iphone-hand-tablet@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iphone-screen-1-desktop@1x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iphone-screen-1-desktop@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iphone-screen-1-tablet@1x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iphone-screen-1-tablet@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iphone-screen-2-desktop@1x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iphone-screen-2-desktop@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iphone-screen-2-tablet@1x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iphone-screen-2-tablet@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iphone-screen-3-desktop@1x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iphone-screen-3-desktop@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iphone-screen-3-tablet@1x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iphone-screen-3-tablet@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iphone-screen-mobile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iphone-screen-mobile@1x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/iphone-screen-mobile@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/panorama-desktop@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/panorama-desktop@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/panorama-mobile@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/panorama-mobile@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/panorama-tablet@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/panorama-tablet@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-1-desktop@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-1-desktop@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-1-mobile@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-1-mobile@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-1-tablet@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-1-tablet@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-2-desktop@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-2-desktop@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-2-mobile@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-2-mobile@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-2-tablet@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-2-tablet@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-3-desktop@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-3-desktop@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-3-mobile@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-3-mobile@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-3-tablet@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-3-tablet@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-4-desktop@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-4-desktop@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-4-mobile@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-4-mobile@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-4-tablet@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-4-tablet@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-5-desktop@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-5-desktop@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-5-mobile@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-5-mobile@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-5-tablet@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-5-tablet@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-6-desktop@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-6-desktop@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-6-mobile@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-6-mobile@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-6-tablet@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-6-tablet@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-7-desktop@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-7-desktop@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-7-mobile@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-7-mobile@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-7-tablet@1x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo-7-tablet@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Contributing.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Specification.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/bg-hit.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/bg-rect-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/bg-triangle-white-footer.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/bg-triangle-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/htmlacademy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/icon-editor-contrast.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/icon-editor-crop.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/icon-editor-diagram-fill.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/icon-editor-fill.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/icon-facebook.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/icon-heart.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/icon-mail.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/icon-map-marker.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/icon-menu-burger.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/icon-menu-cross.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/icon-no.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/icon-phone.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/icon-quotes.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/icon-review-arrow-left.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/icon-review-arrow-right.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/icon-timer.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/icon-twitter.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/icon-yes.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/icon-youtube.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/logo-android.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/logo-apple.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/logo-htmlacademy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/logo-microsoft.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/logo-pink-blue-desktop.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/logo-pink-blue-mobile.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/logo-pink-white-desktop.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/logo-pink-white-mobile.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/logo-pink-white-tablet.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/logotype-blue-desktop.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/logotype-white-desktop.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/mail.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/phone.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/quotes.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/timer.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/symbols.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/blocks/advantages.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/blocks/app-versions.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/blocks/btn.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/blocks/contest-form.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/blocks/contest.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/blocks/devices-links.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/blocks/download.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/blocks/gallery.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/blocks/inner-page.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/blocks/intro.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/blocks/main-nav.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/blocks/map.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/blocks/modal-content.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/blocks/page-footer-logo.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/blocks/page-footer-social.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/blocks/page-footer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/blocks/page-header-logo.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/blocks/page-header.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/blocks/photo.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/blocks/publish-photo.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/blocks/reviews.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/blocks/slider.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/blocks/visually-hidden.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/global/fonts.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/global/scaffolding.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/normalize.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/normalize/import-now.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/normalize/normalize-mixin.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/normalize/support-for.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/normalize/variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/normalize/vertical-rhythm.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+    <list default="true" id="50ca7262-4c27-4889-a610-1bc36692412c" name="Default" comment=":gem:  Обновление файлов стилей">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.min.css" afterPath="$PROJECT_DIR$/css/style.min.css" />
     </list>
     <ignored path="pink.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -209,21 +26,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="form.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="form.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/form.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="-1620">
               <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="photo.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="photo.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/photo.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="398">
+              <caret line="2775" column="0" selection-start-line="2775" selection-start-column="0" selection-end-line="2775" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="2" column="44934" selection-start-line="2" selection-start-column="44934" selection-end-line="2" selection-end-column="44934" />
               <folding />
             </state>
           </provider>
@@ -286,7 +123,6 @@
         <option value="$PROJECT_DIR$/sass/blocks/device-link.scss" />
         <option value="$PROJECT_DIR$/sass/global/body.scss" />
         <option value="$PROJECT_DIR$/sass/global/fonts.scss" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/sass/blocks/page-header-logo.scss" />
         <option value="$PROJECT_DIR$/img/icon-facebook.svg" />
@@ -330,6 +166,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/form.html" />
         <option value="$PROJECT_DIR$/photo.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/css/style.min.css" />
       </list>
     </option>
   </component>
@@ -527,14 +365,7 @@
       <workItem from="1467193707305" duration="4670000" />
       <workItem from="1467626504779" duration="1540000" />
       <workItem from="1467629610686" duration="1004000" />
-      <workItem from="1467631126828" duration="349000" />
-    </task>
-    <task id="LOCAL-00036" summary=":art:  Создание отдельного БЭМ-блока для кнопки">
-      <created>1466541409941</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1466541409941</updated>
+      <workItem from="1467631126828" duration="602000" />
     </task>
     <task id="LOCAL-00037" summary=":sparkles:  :construction:  Верстка блока редактирования фотографии, верстка сердечка в блоке с постами фотографий">
       <created>1466541557675</created>
@@ -872,23 +703,30 @@
       <option name="project" value="LOCAL" />
       <updated>1467198953063</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary=":gem:  Проект Пинк">
+      <created>1467631505510</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1467631505510</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="293234000" />
+    <option name="totallyTimeSpent" value="293487000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1368" height="743" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22121212" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22121212" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2266881" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2266881" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -903,6 +741,28 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2266881" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22121212" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279743" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -916,7 +776,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=":sparkles:  :construction:  Адаптивные контентные изображения и ретинизация на главной странице" />
     <MESSAGE value=":sparkles:  :construction:  Адаптивные контентные изображения и ретинизация на странице с фотографиями" />
     <MESSAGE value=":construction: Подгонка pixel perfect планшетной версии страницы с формой" />
     <MESSAGE value=":construction: Подгонка pixel perfect десктопной версии страницы с формой" />
@@ -941,7 +800,8 @@
     <MESSAGE value=":construction: Правки по кодгайду, удаление ненужного закомментированного кода" />
     <MESSAGE value=":construction: Правки по лейблам, переполнению в блоках формы" />
     <MESSAGE value=":construction: Мелкие правки" />
-    <option name="LAST_COMMIT_MESSAGE" value=":construction: Мелкие правки" />
+    <MESSAGE value=":gem:  Проект Пинк" />
+    <option name="LAST_COMMIT_MESSAGE" value=":gem:  Проект Пинк" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -998,20 +858,6 @@
     <entry file="file://$PROJECT_DIR$/img/photo-7-mobile@2x.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/bg-back-desktop.jpg">
@@ -1286,18 +1132,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/photo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="2775" column="0" selection-start-line="2775" selection-start-column="0" selection-end-line="2775" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="2" column="44934" selection-start-line="2" selection-start-column="44934" selection-end-line="2" selection-end-column="44934" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1620">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
           <folding />
         </state>
       </provider>
