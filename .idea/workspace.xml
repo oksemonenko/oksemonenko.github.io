@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="043805c3-3ec6-4fea-9217-422d689d30e3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/oksemonenko.github.io.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <ignored path="oksemonenko.github.io.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="oksemonenko.github.io" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sass/normalize.scss" />
+        <option value="$PROJECT_DIR$/sass/fonts.scss" />
+        <option value="$PROJECT_DIR$/sass/blocks/social-links.scss" />
+        <option value="$PROJECT_DIR$/sass/blocks/device-link.scss" />
+        <option value="$PROJECT_DIR$/sass/global/body.scss" />
+        <option value="$PROJECT_DIR$/sass/global/fonts.scss" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/sass/blocks/page-header-logo.scss" />
+        <option value="$PROJECT_DIR$/img/icon-facebook.svg" />
+        <option value="$PROJECT_DIR$/img/icon-twitter.svg" />
+        <option value="$PROJECT_DIR$/img/icon-youtube.svg" />
+        <option value="$PROJECT_DIR$/img/icon-heart.svg" />
+        <option value="$PROJECT_DIR$/img/icon-quotes.svg" />
+        <option value="$PROJECT_DIR$/img/icon-yes.svg" />
+        <option value="$PROJECT_DIR$/img/icon-no.svg" />
+        <option value="$PROJECT_DIR$/sass/blocks/page-footer-logo.scss" />
+        <option value="$PROJECT_DIR$/img/bg-triangle-white.svg" />
+        <option value="$PROJECT_DIR$/img/bg-triangle-white-footer.svg" />
+        <option value="$PROJECT_DIR$/sass/variables.scss" />
+        <option value="$PROJECT_DIR$/sass/blocks/btn.scss" />
+        <option value="$PROJECT_DIR$/sass/blocks/modal-content.scss" />
+        <option value="$PROJECT_DIR$/sass/blocks/page-footer-social.scss" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/sass/blocks/advantages.scss" />
+        <option value="$PROJECT_DIR$/sass/blocks/app-versions.scss" />
+        <option value="$PROJECT_DIR$/sass/blocks/contest.scss" />
+        <option value="$PROJECT_DIR$/sass/blocks/devices-links.scss" />
+        <option value="$PROJECT_DIR$/sass/blocks/download.scss" />
+        <option value="$PROJECT_DIR$/sass/blocks/gallery.scss" />
+        <option value="$PROJECT_DIR$/sass/blocks/inner-page.scss" />
+        <option value="$PROJECT_DIR$/sass/blocks/intro.scss" />
+        <option value="$PROJECT_DIR$/sass/blocks/main-nav.scss" />
+        <option value="$PROJECT_DIR$/sass/blocks/map.scss" />
+        <option value="$PROJECT_DIR$/sass/blocks/page-footer.scss" />
+        <option value="$PROJECT_DIR$/sass/blocks/page-header.scss" />
+        <option value="$PROJECT_DIR$/sass/blocks/photo.scss" />
+        <option value="$PROJECT_DIR$/sass/blocks/publish-photo.scss" />
+        <option value="$PROJECT_DIR$/sass/blocks/reviews.scss" />
+        <option value="$PROJECT_DIR$/sass/blocks/slider.scss" />
+        <option value="$PROJECT_DIR$/sass/blocks/visually-hidden.scss" />
+        <option value="$PROJECT_DIR$/sass/global/scaffolding.scss" />
+        <option value="$PROJECT_DIR$/sass/mixins.scss" />
+        <option value="$PROJECT_DIR$/sass/style.scss" />
+        <option value="$PROJECT_DIR$/sass/blocks/contest-form.scss" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/form.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/photo.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/build/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="width" value="1368" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oksemonenko.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oksemonenko.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oksemonenko.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v5.1.0/bin/node" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/icons" />
+      <recent name="$PROJECT_DIR$/sass/global" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/sass" />
+      <recent name="$PROJECT_DIR$/sass/normalize" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="043805c3-3ec6-4fea-9217-422d689d30e3" name="Default" comment="" />
+      <created>1464898919472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1464898919472</updated>
+      <workItem from="1464898921669" duration="2418000" />
+      <workItem from="1464976560403" duration="13977000" />
+      <workItem from="1465067721794" duration="6429000" />
+      <workItem from="1465119979406" duration="6364000" />
+      <workItem from="1465129285325" duration="466000" />
+      <workItem from="1465326061823" duration="2566000" />
+      <workItem from="1465644077915" duration="8234000" />
+      <workItem from="1465731651336" duration="11699000" />
+      <workItem from="1465821651479" duration="1348000" />
+      <workItem from="1465893057944" duration="14361000" />
+      <workItem from="1465996626113" duration="19000" />
+      <workItem from="1465996985899" duration="19000" />
+      <workItem from="1465997370972" duration="19133000" />
+      <workItem from="1466074129574" duration="1480000" />
+      <workItem from="1466100574799" duration="5647000" />
+      <workItem from="1466245114012" duration="11070000" />
+      <workItem from="1466354572776" duration="4559000" />
+      <workItem from="1466423847801" duration="9691000" />
+      <workItem from="1466442547668" duration="10961000" />
+      <workItem from="1466506161180" duration="10892000" />
+      <workItem from="1466531441961" duration="11181000" />
+      <workItem from="1466586363861" duration="28103000" />
+      <workItem from="1466672480200" duration="25197000" />
+      <workItem from="1466866568277" duration="9308000" />
+      <workItem from="1466949112791" duration="18760000" />
+      <workItem from="1467017202883" duration="32605000" />
+      <workItem from="1467056662519" duration="8471000" />
+      <workItem from="1467105982253" duration="8155000" />
+      <workItem from="1467135020678" duration="2571000" />
+      <workItem from="1467193707305" duration="4670000" />
+      <workItem from="1467626504779" duration="185000" />
+      <workItem from="1467630200009" duration="278000" />
+    </task>
+    <task id="LOCAL-00039" summary=":construction:  Верстка блока intro внутренних страниц">
+      <created>1466589969978</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1466589969978</updated>
+    </task>
+    <task id="LOCAL-00040" summary=":construction:  Верстка декоративных элементов страницы с формой">
+      <created>1466593730500</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1466593730500</updated>
+    </task>
+    <task id="LOCAL-00041" summary=":construction:  Верстка состояния меню с отключенным js">
+      <created>1466599367516</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1466599367516</updated>
+    </task>
+    <task id="LOCAL-00042" summary=":construction:  Подгонка pixel perfect мобильной версии главной страницы">
+      <created>1466605530827</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1466605530858</updated>
+    </task>
+    <task id="LOCAL-00043" summary=":construction:  Верстка состояния меню с отключенным js для внутренних страниц">
+      <created>1466608124739</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1466608124739</updated>
+    </task>
+    <task id="LOCAL-00044" summary=":construction:  Подгонка pixel perfect планшетной версии главной страницы">
+      <created>1466613695076</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1466613695120</updated>
+    </task>
+    <task id="LOCAL-00045" summary=":construction:  Подгонка pixel perfect планшетной версии главной страницы">
+      <created>1466631461731</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1466631461735</updated>
+    </task>
+    <task id="LOCAL-00046" summary=":construction:  Подгонка pixel perfect планшетной версии главной страницы">
+      <created>1466674315039</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1466674315039</updated>
+    </task>
+    <task id="LOCAL-00047" summary=":construction:  Подгонка pixel perfect десктопной версии главной страницы">
+      <created>1466678503794</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1466678503794</updated>
+    </task>
+    <task id="LOCAL-00048" summary=":construction:  Подгонка pixel perfect десктопной версии главной страницы">
+      <created>1466687992426</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1466687992426</updated>
+    </task>
+    <task id="LOCAL-00049" summary=":construction:  Подгонка pixel perfect мобильной версии страницы с фотографиями">
+      <created>1466691690270</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1466691690287</updated>
+    </task>
+    <task id="LOCAL-00050" summary=":construction:  Подгонка pixel perfect планшетной версии страницы с фотографиями">
+      <created>1466693200913</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1466693201288</updated>
+    </task>
+    <task id="LOCAL-00051" summary=":construction:  Подгонка pixel perfect планшетной версии страницы с фотографиями">
+      <created>1466709058367</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1466709058451</updated>
+    </task>
+    <task id="LOCAL-00052" summary=":construction:  Подгонка pixel perfect десктопной версии страницы с фотографиями">
+      <created>1466711336469</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1466711336474</updated>
+    </task>
+    <task id="LOCAL-00053" summary=":construction:  Подгонка pixel perfect мобильной версии страницы с формой">
+      <created>1466717738580</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1466717738581</updated>
+    </task>
+    <task id="LOCAL-00054" summary=":sparkles:  :construction:  Ретинизация фоновых изображений">
+      <created>1466869428488</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1466869428500</updated>
+    </task>
+    <task id="LOCAL-00055" summary=":sparkles:  :construction:  Правки по ретинизации: прописаны размеры изображений">
+      <created>1466870076747</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1466870076748</updated>
+    </task>
+    <task id="LOCAL-00056" summary=":sparkles:  :construction:  Верстка адаптивного svg-логотипа">
+      <created>1466876152659</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1466876152675</updated>
+    </task>
+    <task id="LOCAL-00057" summary=":sparkles:  :construction:  Адаптивные контентные изображения и ретинизация на главной странице">
+      <created>1466953966920</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1466953966945</updated>
+    </task>
+    <task id="LOCAL-00058" summary=":sparkles:  :construction:  Адаптивные контентные изображения и ретинизация на странице с фотографиями">
+      <created>1466956124836</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1466956124836</updated>
+    </task>
+    <task id="LOCAL-00059" summary=":construction: Подгонка pixel perfect планшетной версии страницы с формой">
+      <created>1466960181756</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1466960181756</updated>
+    </task>
+    <task id="LOCAL-00060" summary=":construction: Подгонка pixel perfect десктопной версии страницы с формой">
+      <created>1466964379519</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1466964379520</updated>
+    </task>
+    <task id="LOCAL-00061" summary=":construction: Стилизация логотипа при наведении и нажатии">
+      <created>1466967626056</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1466967626090</updated>
+    </task>
+    <task id="LOCAL-00062" summary=":construction: Стилизация пунктов меню при наведении и нажатии">
+      <created>1466969050285</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1466969050285</updated>
+    </task>
+    <task id="LOCAL-00063" summary=":construction: Стилизация состояний элементов">
+      <created>1467020509483</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1467020509566</updated>
+    </task>
+    <task id="LOCAL-00064" summary=":construction: Стилизация состояний элементов, правки по верстке состояния меню при выключенном js">
+      <created>1467024040335</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1467024040372</updated>
+    </task>
+    <task id="LOCAL-00065" summary=":construction: Стилизация состояний элементов">
+      <created>1467027724765</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1467027724775</updated>
+    </task>
+    <task id="LOCAL-00066" summary=":construction: Верстка блока публикации фотографии на планшетной версии">
+      <created>1467033050897</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1467033050897</updated>
+    </task>
+    <task id="LOCAL-00067" summary=":construction: Верстка блока публикации фотографии на десктопной версии">
+      <created>1467036742405</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1467036742405</updated>
+    </task>
+    <task id="LOCAL-00068" summary=":construction: Верстка декоративных элементов: треугольников в фоне, псеводоэлемента в таблице">
+      <created>1467043700809</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1467043700921</updated>
+    </task>
+    <task id="LOCAL-00069" summary=":construction: Верстка декоративных элементов, ссылок для фотографий">
+      <created>1467045319511</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1467045319511</updated>
+    </task>
+    <task id="LOCAL-00070" summary=":construction: Верстка всплывающего окна на странице с формой: сообщение об отправке">
+      <created>1467049740085</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1467049740105</updated>
+    </task>
+    <task id="LOCAL-00071" summary=":construction: Верстка всплывающего окна на странице с формой: сообщение об ошибке">
+      <created>1467052319379</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1467052319423</updated>
+    </task>
+    <task id="LOCAL-00072" summary=":construction: Верстка всплывающих окон на странице с формой:  планшетная и десктопная версии">
+      <created>1467058480301</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1467058480316</updated>
+    </task>
+    <task id="LOCAL-00073" summary=":construction: Верстка интерактивной адаптивной карты">
+      <created>1467060056517</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1467060056541</updated>
+    </task>
+    <task id="LOCAL-00074" summary=":construction: Правки по карте">
+      <created>1467060841920</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1467060841920</updated>
+    </task>
+    <task id="LOCAL-00075" summary=":construction: Правки по карте и по блоку версий приложения">
+      <created>1467061497699</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1467061497699</updated>
+    </task>
+    <task id="LOCAL-00076" summary=":construction: Правки по навигации">
+      <created>1467062296204</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1467062296204</updated>
+    </task>
+    <task id="LOCAL-00077" summary=":construction: Правки по блокам преимуществ, версий приложения, футеру">
+      <created>1467064587862</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1467064587890</updated>
+    </task>
+    <task id="LOCAL-00078" summary=":art: Перемещение svg-иконок в папку icons, правки путей к иконкам">
+      <created>1467112726850</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1467112726894</updated>
+    </task>
+    <task id="LOCAL-00079" summary=":arrow_up:  :snowflake:  Написание автоматизации проекта">
+      <created>1467112864185</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1467112864185</updated>
+    </task>
+    <task id="LOCAL-00080" summary=":construction: Мелкие правки">
+      <created>1467113080035</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1467113080036</updated>
+    </task>
+    <task id="LOCAL-00081" summary=":construction: Правки по кодгайду, удаление ненужного закомментированного кода">
+      <created>1467136457730</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1467136457747</updated>
+    </task>
+    <task id="LOCAL-00082" summary=":construction: Правки по лейблам, переполнению в блоках формы">
+      <created>1467195891240</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1467195891309</updated>
+    </task>
+    <task id="LOCAL-00083" summary=":construction: Мелкие правки">
+      <created>1467196880788</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1467196880800</updated>
+    </task>
+    <task id="LOCAL-00084" summary=":construction: Мелкие правки">
+      <created>1467198953063</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1467198953063</updated>
+    </task>
+    <task id="LOCAL-00085" summary=":construction:  Мелкие правки">
+      <created>1467627121068</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1467627121086</updated>
+    </task>
+    <task id="LOCAL-00086" summary=":construction:  Обновление стилей">
+      <created>1467628633992</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1467628633995</updated>
+    </task>
+    <task id="LOCAL-00087" summary=":construction:  Обновление стилей">
+      <created>1467629652883</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1467629652883</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="293955000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1368" height="743" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20681818" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2652733" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=":construction: Подгонка pixel perfect планшетной версии страницы с формой" />
+    <MESSAGE value=":construction: Подгонка pixel perfect десктопной версии страницы с формой" />
+    <MESSAGE value=":construction: Стилизация логотипа при наведении и нажатии" />
+    <MESSAGE value=":construction: Стилизация пунктов меню при наведении и нажатии" />
+    <MESSAGE value=":construction: Стилизация состояний элементов, правки по верстке состояния меню при выключенном js" />
+    <MESSAGE value=":construction: Стилизация состояний элементов" />
+    <MESSAGE value=":construction: Верстка блока публикации фотографии на планшетной версии" />
+    <MESSAGE value=":construction: Верстка блока публикации фотографии на десктопной версии" />
+    <MESSAGE value=":construction: Верстка декоративных элементов: треугольников в фоне, псеводоэлемента в таблице" />
+    <MESSAGE value=":construction: Верстка декоративных элементов, ссылок для фотографий" />
+    <MESSAGE value=":construction: Верстка всплывающего окна на странице с формой: сообщение об отправке" />
+    <MESSAGE value=":construction: Верстка всплывающего окна на странице с формой: сообщение об ошибке" />
+    <MESSAGE value=":construction: Верстка всплывающих окон на странице с формой:  планшетная и десктопная версии" />
+    <MESSAGE value=":construction: Верстка интерактивной адаптивной карты" />
+    <MESSAGE value=":construction: Правки по карте" />
+    <MESSAGE value=":construction: Правки по карте и по блоку версий приложения" />
+    <MESSAGE value=":construction: Правки по навигации" />
+    <MESSAGE value=":construction: Правки по блокам преимуществ, версий приложения, футеру" />
+    <MESSAGE value=":art: Перемещение svg-иконок в папку icons, правки путей к иконкам" />
+    <MESSAGE value=":arrow_up:  :snowflake:  Написание автоматизации проекта" />
+    <MESSAGE value=":construction: Правки по кодгайду, удаление ненужного закомментированного кода" />
+    <MESSAGE value=":construction: Правки по лейблам, переполнению в блоках формы" />
+    <MESSAGE value=":construction: Мелкие правки" />
+    <MESSAGE value=":construction:  Мелкие правки" />
+    <MESSAGE value=":construction:  Обновление стилей" />
+    <option name="LAST_COMMIT_MESSAGE" value=":construction:  Обновление стилей" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/img/icons/bg-hit.svg" />
+    <entry file="file://$PROJECT_DIR$/img/icons/bg-rect-white.svg" />
+    <entry file="file://$PROJECT_DIR$/img/symbols.svg" />
+    <entry file="file://$PROJECT_DIR$/img/photo-7-mobile@2x.jpg" />
+    <entry file="file://$PROJECT_DIR$/css/style.min.css" />
+    <entry file="file://$PROJECT_DIR$/img/bg-back-desktop.jpg" />
+    <entry file="file://$PROJECT_DIR$/build/img/bg-back-desktop.jpg" />
+    <entry file="file://$PROJECT_DIR$/build/img/bg-back-mobile.jpg" />
+    <entry file="file://$PROJECT_DIR$/build/img/symbols.svg" />
+    <entry file="file://$PROJECT_DIR$/sass/blocks/btn.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/blocks/app-versions.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/blocks/advantages.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/blocks/contest.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/blocks/devices-links.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/blocks/download.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/blocks/gallery.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/blocks/inner-page.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/blocks/intro.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/blocks/main-nav.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/blocks/map.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/blocks/modal-content.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/blocks/page-footer.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/blocks/page-footer-logo.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/blocks/page-footer-social.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/blocks/page-header-logo.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/blocks/page-header.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/blocks/photo.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/blocks/publish-photo.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/blocks/reviews.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/blocks/visually-hidden.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/blocks/slider.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/global/fonts.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/global/scaffolding.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/mixins.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/style.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/normalize.scss" />
+    <entry file="file://$PROJECT_DIR$/sass/variables.scss" />
+    <entry file="file://$PROJECT_DIR$/build/form.html" />
+    <entry file="file://$PROJECT_DIR$/Specification.md" />
+    <entry file="file://$PROJECT_DIR$/build/js/README" />
+    <entry file="file://$PROJECT_DIR$/node_modules/d/test/lazy.js" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/form.html" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/build/photo.html" />
+    <entry file="file://$PROJECT_DIR$/photo.html" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/build/index.html" />
+    <entry file="file://$PROJECT_DIR$/gulpfile.js" />
+    <entry file="file://$PROJECT_DIR$/sass/blocks/contest-form.scss" />
+    <entry file="file://$PROJECT_DIR$/css/style.css" />
+  </component>
+</project>
