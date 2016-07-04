@@ -1,0 +1,32 @@
+@import "normalize/import-now";
+
+@import "variables";
+@import "mixins";
+
+@import "global/scaffolding";
+@import "global/fonts";
+
+@import "blocks/page-header";
+@import "blocks/page-header-logo";
+@import "blocks/main-nav";
+@import "blocks/intro";
+@import "blocks/download";
+@import "blocks/devices-links";
+@import "blocks/advantages";
+@import "blocks/reviews";
+@import "blocks/app-versions";
+@import "blocks/contest";
+@import "blocks/contest-form";
+@import "blocks/gallery";
+@import "blocks/photo";
+@import "blocks/publish-photo";
+@import "blocks/page-footer";
+@import "blocks/page-footer-logo";
+@import "blocks/page-footer-social";
+@import "blocks/map";
+
+@import "blocks/slider";
+@import "blocks/visually-hidden";
+@import "blocks/inner-page";
+@import "blocks/btn";
+@import "blocks/modal-content";

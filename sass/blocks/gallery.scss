@@ -1,0 +1,43 @@
+.gallery {
+  display: flex;
+  flex-direction: column;
+}
+
+.gallery__description {
+  width: 250px;
+  margin: 0 auto;
+  padding-top: 14px;
+  padding-bottom: 54px;
+  font-size: $font-size-small;
+  line-height: 30px;
+  background: $body-bg;
+}
+
+@media #{$tablet-width} {
+  .gallery {
+    @include container;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 60px;
+  }
+
+  .gallery__description {
+    width: 450px;
+    padding-top: 0;
+    padding-bottom: 76px;
+    font-size: $font-size-normal;
+  }
+}
+
+@media #{$desktop-width} {
+  .gallery {
+    @include container;
+    justify-content: space-between;
+  }
+
+  .gallery__description {
+    width: 600px;
+    padding-bottom: 88px;
+  }
+}

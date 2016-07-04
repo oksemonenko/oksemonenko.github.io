@@ -1,0 +1,264 @@
+.advantages {
+  padding-top: 38px;
+}
+
+.advantages__question,
+.advantages__answer {
+  width: 205px;
+  margin: 0 auto;
+  font-size: $font-size-big;
+  font-weight: $font-weight-light;
+}
+
+.advantages__question {
+  margin-bottom: 20px;
+}
+
+.advantages__promo {
+  background: $sections-bg url("../img/icons/bg-triangle-white.svg") no-repeat top;
+  background-size: 105%;
+}
+
+.advantages__list {
+  width: 280px;
+  margin: 0 auto;
+  margin-top: 25px;
+  padding: 0 20px;
+  padding-top: 65px;
+  list-style: none;
+}
+
+.advantages__item {
+  margin-bottom: 32px;
+}
+
+.advantages__item-title {
+  margin-bottom: 12px;
+  font-size: $font-size-normal;
+  line-height: 24px;
+  font-weight: $font-weight-bold;
+}
+
+.advantages__item p {
+  font-size: $font-size-small;
+  line-height: 24px;
+  margin: 0;
+}
+
+.advantages__promo-image {
+  margin-top: -35px;
+  padding-top: 40px;
+}
+
+.advantages__promo-image-2,
+.advantages__promo-image-3 {
+  display: none;
+}
+
+.advantages__effect {
+  display: none;
+}
+
+@media #{$tablet-width} {
+  .advantages {
+    position: relative;
+    padding-top: 50px;
+    margin-bottom: 80px;
+
+  }
+
+  .advantages__question,
+  .advantages__answer {
+    font-size: $font-size-rather-bigger;
+    font-weight: $font-weight-light;
+    line-height: 48px;
+  }
+
+  .advantages__question {
+    width: 600px;
+    margin-bottom: 0;
+  }
+
+  .advantages__answer {
+    width: 345px;
+    margin-bottom: 48px;
+  }
+
+  .advantages__wrapper {
+    @include container;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+  }
+
+  .advantages__promo-image {
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+  .advantages__list {
+    width: 310px;
+    margin: 0;
+    padding: 0;
+    padding-top: 55px;
+    padding-bottom: 10px;
+  }
+
+  .advantages__item {
+    text-align: left;
+    margin-bottom: 34px;
+  }
+
+  .advantages__effect {
+    position: relative;
+    display: block;
+    padding-top: 65px;
+    text-align: left;
+  }
+
+  .advantages__effect-wrapper {
+    @include container;
+    @include clearfix;
+  }
+
+  .advantages__effect-content {
+    float: right;
+    width: 310px;
+  }
+
+  .advantages__effect::before {
+    content: '24';
+    position: absolute;
+    top: 55px;
+    left: 13px;
+    width: 240px;
+    height: 277px;
+    background: url("../img//icons/timer.svg") no-repeat center;
+    color: $footer-info-color;
+    font-size: $font-size-decoration;
+    font-weight: $font-weight-bold;
+    text-align: center;
+    line-height: 305px;
+  }
+
+  .advantages__effect-title {
+    width: 170px;
+    margin-bottom: 10px;
+    font-size: $font-size-rather-big;
+    font-weight: $font-weight-bold;
+    line-height: 36px;
+  }
+
+  .advantages__effect p {
+    font-size: $font-size-small;
+    line-height: 24px;
+    margin: 0;
+    margin-bottom: 8px;
+  }
+
+  .advantages__effect a {
+    font-size: $font-size-small;
+    line-height: 24px;
+    color: $footer-info-color;
+  }
+}
+
+@media #{$desktop-width} {
+  .advantages {
+    padding-top: 70px;
+    margin-bottom: 70px;
+  }
+
+  .advantages__question,
+  .advantages__answer {
+    width: 740px;
+    margin: 0 auto;
+    font-size: $font-size-super-big;
+    font-weight: $font-weight-light;
+    line-height: 59px;
+  }
+
+  .advantages__answer {
+    width: 500px;
+    margin-bottom: 80px;
+  }
+
+  .advantages__promo-image img {
+    display: inline;
+  }
+
+  .advantages__wrapper {
+    flex-direction: column-reverse;
+  }
+
+  .advantages__list,
+  .advantages__promo-image {
+    @include container;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+  }
+
+  .advantages__list {
+    padding-top: 18px;
+  }
+
+  .advantages__item {
+    width: 238px;
+    text-align: center;
+  }
+
+  .advantages__item-title {
+    margin-bottom: 22px;
+    font-size: $font-size-rather-big;
+    line-height: 30px;
+  }
+
+  .advantages__item p {
+    font-size: $font-size-normal;
+    line-height: 30px;
+  }
+
+  .advantages__effect {
+    padding-top: 85px;
+      padding-bottom: 115px;
+      background: $sections-bg;
+  }
+
+  .advantages__effect-wrapper {
+    @include container;
+    @include clearfix;
+  }
+
+  .advantages__effect-content {
+    width: 525px;
+    margin-right: 50px;
+  }
+
+  .advantages__effect-title {
+    width: 298px;
+    margin-bottom: 20px;
+  }
+
+  .advantages__effect::before {
+    top: 22px;
+    left: 15%;
+    width: 298px;
+    height: 345px;
+    background-size: cover;
+    font-size: $font-size-big-decoration;
+    line-height: 380px;
+  }
+
+  .advantages__effect p {
+    margin-bottom: 35px;
+    font-size: $font-size-normal;
+    line-height: 30px;
+  }
+
+  .advantages__effect a {
+    font-size: $font-size-normal;
+    line-height: 24px;
+    color: $footer-info-color;
+  }
+}
